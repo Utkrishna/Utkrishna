@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Utkrishna
-- 👀 I’m interested in Data analyst
-- 🌱 I’m currently learning B.E
+- 👀 I’m interested in Java
 
 
 <!---
